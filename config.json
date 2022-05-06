@@ -13,7 +13,7 @@
       "height": 3945,
       "path": "./photos/Backgrounds/20-11-2021_0092.jpg",
       "compressed_path": "./photos/Backgrounds/20-11-2021_0092.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/20-11-2021_0092.placeholder.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "height": 3947,
       "path": "./photos/Backgrounds/20-11-2021_0109.jpg",
       "compressed_path": "./photos/Backgrounds/20-11-2021_0109.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/20-11-2021_0109.placeholder.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "height": 4000,
       "path": "./photos/Backgrounds/DSC07469-8.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07469-8.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07469-8.placeholder.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "height": 4000,
       "path": "./photos/Backgrounds/DSC07490-29.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07490-29.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07490-29.placeholder.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "height": 4000,
       "path": "./photos/Backgrounds/DSC07521-60.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07521-60.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07521-60.placeholder.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "height": 4000,
       "path": "./photos/Backgrounds/DSC07580-29.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07580-29.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07580-29.placeholder.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "height": 3919,
       "path": "./photos/Backgrounds/DSC07618-67-HDR.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07618-67-HDR.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07618-67-HDR.placeholder.jpg"
     },
     {
@@ -69,7 +69,7 @@
       "height": 4000,
       "path": "./photos/Backgrounds/DSC07722-60.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07722-60.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07722-60.placeholder.jpg"
     },
     {
@@ -77,7 +77,7 @@
       "height": 2761,
       "path": "./photos/Backgrounds/DSC07816-65.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07816-65.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07816-65.placeholder.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "height": 3674,
       "path": "./photos/Backgrounds/DSC07820-69.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07820-69.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07820-69.placeholder.jpg"
     },
     {
@@ -93,48 +93,48 @@
       "height": 2555,
       "path": "./photos/Backgrounds/DSC07855-104.jpg",
       "compressed_path": "./photos/Backgrounds/DSC07855-104.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Backgrounds/DSC07855-104.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Backgrounds/_DSC7948-69.jpg",
-      "compressed_path": "./photos/Backgrounds/_DSC7948-69.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Backgrounds/_DSC7948-69.placeholder.jpg"
+      "path": "./photos/Backgrounds/DSC7948-69.jpg",
+      "compressed_path": "./photos/Backgrounds/DSC7948-69.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Backgrounds/DSC7948-69.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Backgrounds/_DSC7959-80.jpg",
-      "compressed_path": "./photos/Backgrounds/_DSC7959-80.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Backgrounds/_DSC7959-80.placeholder.jpg"
+      "path": "./photos/Backgrounds/DSC7959-80.jpg",
+      "compressed_path": "./photos/Backgrounds/DSC7959-80.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Backgrounds/DSC7959-80.placeholder.jpg"
     },
     {
       "width": 4748,
       "height": 3165,
-      "path": "./photos/Backgrounds/_DSC7965-86.jpg",
-      "compressed_path": "./photos/Backgrounds/_DSC7965-86.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Backgrounds/_DSC7965-86.placeholder.jpg"
+      "path": "./photos/Backgrounds/DSC7965-86.jpg",
+      "compressed_path": "./photos/Backgrounds/DSC7965-86.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Backgrounds/DSC7965-86.placeholder.jpg"
     },
     {
       "width": 5764,
       "height": 3843,
-      "path": "./photos/Backgrounds/_DSC8012-11.jpg",
-      "compressed_path": "./photos/Backgrounds/_DSC8012-11.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Backgrounds/_DSC8012-11.placeholder.jpg"
+      "path": "./photos/Backgrounds/DSC8012-11.jpg",
+      "compressed_path": "./photos/Backgrounds/DSC8012-11.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Backgrounds/DSC8012-11.placeholder.jpg"
     },
     {
       "width": 4177,
       "height": 2785,
-      "path": "./photos/Backgrounds/_DSC8385-103.jpg",
-      "compressed_path": "./photos/Backgrounds/_DSC8385-103.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Backgrounds/_DSC8385-103.placeholder.jpg"
+      "path": "./photos/Backgrounds/DSC8385-103.jpg",
+      "compressed_path": "./photos/Backgrounds/DSC8385-103.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Backgrounds/DSC8385-103.placeholder.jpg"
     }
   ],
   "Street": [
@@ -143,7 +143,7 @@
       "height": 3873,
       "path": "./photos/Street/20-11-2021_0045.jpg",
       "compressed_path": "./photos/Street/20-11-2021_0045.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/20-11-2021_0045.placeholder.jpg"
     },
     {
@@ -151,7 +151,7 @@
       "height": 3892,
       "path": "./photos/Street/20-11-2021_0080.jpg",
       "compressed_path": "./photos/Street/20-11-2021_0080.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/20-11-2021_0080.placeholder.jpg"
     },
     {
@@ -159,7 +159,7 @@
       "height": 4023,
       "path": "./photos/Street/20-11-2021_0082.jpg",
       "compressed_path": "./photos/Street/20-11-2021_0082.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/20-11-2021_0082.placeholder.jpg"
     },
     {
@@ -167,7 +167,7 @@
       "height": 4276,
       "path": "./photos/Street/20-11-2021_0100.jpg",
       "compressed_path": "./photos/Street/20-11-2021_0100.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/20-11-2021_0100.placeholder.jpg"
     },
     {
@@ -175,7 +175,7 @@
       "height": 3281,
       "path": "./photos/Street/DSC07493-32.jpg",
       "compressed_path": "./photos/Street/DSC07493-32.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/DSC07493-32.placeholder.jpg"
     },
     {
@@ -183,7 +183,7 @@
       "height": 3570,
       "path": "./photos/Street/DSC07776-25.jpg",
       "compressed_path": "./photos/Street/DSC07776-25.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/DSC07776-25.placeholder.jpg"
     },
     {
@@ -191,7 +191,7 @@
       "height": 3369,
       "path": "./photos/Street/DSC07791-40.jpg",
       "compressed_path": "./photos/Street/DSC07791-40.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/DSC07791-40.placeholder.jpg"
     },
     {
@@ -199,7 +199,7 @@
       "height": 4000,
       "path": "./photos/Street/DSC07806-55.jpg",
       "compressed_path": "./photos/Street/DSC07806-55.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/DSC07806-55.placeholder.jpg"
     },
     {
@@ -207,72 +207,72 @@
       "height": 6000,
       "path": "./photos/Street/DSC07827-76.jpg",
       "compressed_path": "./photos/Street/DSC07827-76.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Street/DSC07827-76.placeholder.jpg"
     },
     {
       "width": 3628,
       "height": 5442,
-      "path": "./photos/Street/_DSC8122-14.jpg",
-      "compressed_path": "./photos/Street/_DSC8122-14.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8122-14.placeholder.jpg"
+      "path": "./photos/Street/DSC8122-14.jpg",
+      "compressed_path": "./photos/Street/DSC8122-14.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8122-14.placeholder.jpg"
     },
     {
       "width": 3919,
       "height": 5879,
-      "path": "./photos/Street/_DSC8135-27.jpg",
-      "compressed_path": "./photos/Street/_DSC8135-27.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8135-27.placeholder.jpg"
+      "path": "./photos/Street/DSC8135-27.jpg",
+      "compressed_path": "./photos/Street/DSC8135-27.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8135-27.placeholder.jpg"
     },
     {
       "width": 5764,
       "height": 3843,
-      "path": "./photos/Street/_DSC8153-45.jpg",
-      "compressed_path": "./photos/Street/_DSC8153-45.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8153-45.placeholder.jpg"
+      "path": "./photos/Street/DSC8153-45.jpg",
+      "compressed_path": "./photos/Street/DSC8153-45.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8153-45.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Street/_DSC8163-55.jpg",
-      "compressed_path": "./photos/Street/_DSC8163-55.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8163-55.placeholder.jpg"
+      "path": "./photos/Street/DSC8163-55.jpg",
+      "compressed_path": "./photos/Street/DSC8163-55.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8163-55.placeholder.jpg"
     },
     {
       "width": 5550,
       "height": 3700,
-      "path": "./photos/Street/_DSC8178-70.jpg",
-      "compressed_path": "./photos/Street/_DSC8178-70.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8178-70.placeholder.jpg"
+      "path": "./photos/Street/DSC8178-70.jpg",
+      "compressed_path": "./photos/Street/DSC8178-70.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8178-70.placeholder.jpg"
     },
     {
       "width": 2789,
       "height": 4183,
-      "path": "./photos/Street/_DSC8192-84.jpg",
-      "compressed_path": "./photos/Street/_DSC8192-84.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8192-84.placeholder.jpg"
+      "path": "./photos/Street/DSC8192-84.jpg",
+      "compressed_path": "./photos/Street/DSC8192-84.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8192-84.placeholder.jpg"
     },
     {
       "width": 5764,
       "height": 3843,
-      "path": "./photos/Street/_DSC8518-11.jpg",
-      "compressed_path": "./photos/Street/_DSC8518-11.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8518-11.placeholder.jpg"
+      "path": "./photos/Street/DSC8518-11.jpg",
+      "compressed_path": "./photos/Street/DSC8518-11.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8518-11.placeholder.jpg"
     },
     {
       "width": 3451,
       "height": 5177,
-      "path": "./photos/Street/_DSC8590-83.jpg",
-      "compressed_path": "./photos/Street/_DSC8590-83.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Street/_DSC8590-83.placeholder.jpg"
+      "path": "./photos/Street/DSC8590-83.jpg",
+      "compressed_path": "./photos/Street/DSC8590-83.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Street/DSC8590-83.placeholder.jpg"
     }
   ],
   "Vertical": [
@@ -281,7 +281,7 @@
       "height": 6020,
       "path": "./photos/Vertical/20-11-2021_0040.jpg",
       "compressed_path": "./photos/Vertical/20-11-2021_0040.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/20-11-2021_0040.placeholder.jpg"
     },
     {
@@ -289,7 +289,7 @@
       "height": 4836,
       "path": "./photos/Vertical/20-11-2021_0049.jpg",
       "compressed_path": "./photos/Vertical/20-11-2021_0049.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/20-11-2021_0049.placeholder.jpg"
     },
     {
@@ -297,7 +297,7 @@
       "height": 5791,
       "path": "./photos/Vertical/20-11-2021_0056.jpg",
       "compressed_path": "./photos/Vertical/20-11-2021_0056.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/20-11-2021_0056.placeholder.jpg"
     },
     {
@@ -305,7 +305,7 @@
       "height": 5104,
       "path": "./photos/Vertical/20-11-2021_0091.jpg",
       "compressed_path": "./photos/Vertical/20-11-2021_0091.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/20-11-2021_0091.placeholder.jpg"
     },
     {
@@ -313,7 +313,7 @@
       "height": 6000,
       "path": "./photos/Vertical/211112_12-11-2021 Saskatoon Street_6030.jpg",
       "compressed_path": "./photos/Vertical/211112_12-11-2021 Saskatoon Street_6030.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/211112_12-11-2021 Saskatoon Street_6030.placeholder.jpg"
     },
     {
@@ -321,7 +321,7 @@
       "height": 5383,
       "path": "./photos/Vertical/211112_12-11-2021 Saskatoon Street_6039.jpg",
       "compressed_path": "./photos/Vertical/211112_12-11-2021 Saskatoon Street_6039.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/211112_12-11-2021 Saskatoon Street_6039.placeholder.jpg"
     },
     {
@@ -329,7 +329,7 @@
       "height": 6000,
       "path": "./photos/Vertical/DSC07498-37.jpg",
       "compressed_path": "./photos/Vertical/DSC07498-37.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/DSC07498-37.placeholder.jpg"
     },
     {
@@ -337,7 +337,7 @@
       "height": 5536,
       "path": "./photos/Vertical/DSC07504-43.jpg",
       "compressed_path": "./photos/Vertical/DSC07504-43.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/DSC07504-43.placeholder.jpg"
     },
     {
@@ -345,7 +345,7 @@
       "height": 5524,
       "path": "./photos/Vertical/DSC07508-47.jpg",
       "compressed_path": "./photos/Vertical/DSC07508-47.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/DSC07508-47.placeholder.jpg"
     },
     {
@@ -353,7 +353,7 @@
       "height": 5878,
       "path": "./photos/Vertical/DSC07595-44.jpg",
       "compressed_path": "./photos/Vertical/DSC07595-44.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/DSC07595-44.placeholder.jpg"
     },
     {
@@ -361,24 +361,24 @@
       "height": 4471,
       "path": "./photos/Vertical/DSC07809-58.jpg",
       "compressed_path": "./photos/Vertical/DSC07809-58.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vertical/DSC07809-58.placeholder.jpg"
     },
     {
       "width": 3843,
       "height": 5764,
-      "path": "./photos/Vertical/_DSC8054-53.jpg",
-      "compressed_path": "./photos/Vertical/_DSC8054-53.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Vertical/_DSC8054-53.placeholder.jpg"
+      "path": "./photos/Vertical/DSC8054-53.jpg",
+      "compressed_path": "./photos/Vertical/DSC8054-53.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vertical/DSC8054-53.placeholder.jpg"
     },
     {
       "width": 2667,
       "height": 4000,
-      "path": "./photos/Vertical/_DSC8380-98.jpg",
-      "compressed_path": "./photos/Vertical/_DSC8380-98.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Vertical/_DSC8380-98.placeholder.jpg"
+      "path": "./photos/Vertical/DSC8380-98.jpg",
+      "compressed_path": "./photos/Vertical/DSC8380-98.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Vertical/DSC8380-98.placeholder.jpg"
     }
   ],
   "Wildlife": [
@@ -387,7 +387,7 @@
       "height": 3105,
       "path": "./photos/Wildlife/DSC07506-45.jpg",
       "compressed_path": "./photos/Wildlife/DSC07506-45.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Wildlife/DSC07506-45.placeholder.jpg"
     },
     {
@@ -395,7 +395,7 @@
       "height": 2306,
       "path": "./photos/Wildlife/DSC07533-72.jpg",
       "compressed_path": "./photos/Wildlife/DSC07533-72.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Wildlife/DSC07533-72.placeholder.jpg"
     },
     {
@@ -403,48 +403,48 @@
       "height": 1726,
       "path": "./photos/Wildlife/DSC07540-79.jpg",
       "compressed_path": "./photos/Wildlife/DSC07540-79.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Wildlife/DSC07540-79.placeholder.jpg"
     },
     {
       "width": 2919,
       "height": 1946,
-      "path": "./photos/Wildlife/_DSC8304-30.jpg",
-      "compressed_path": "./photos/Wildlife/_DSC8304-30.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Wildlife/_DSC8304-30.placeholder.jpg"
+      "path": "./photos/Wildlife/DSC8304-30.jpg",
+      "compressed_path": "./photos/Wildlife/DSC8304-30.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Wildlife/DSC8304-30.placeholder.jpg"
     },
     {
       "width": 1553,
       "height": 2329,
-      "path": "./photos/Wildlife/_DSC8322-48.jpg",
-      "compressed_path": "./photos/Wildlife/_DSC8322-48.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Wildlife/_DSC8322-48.placeholder.jpg"
+      "path": "./photos/Wildlife/DSC8322-48.jpg",
+      "compressed_path": "./photos/Wildlife/DSC8322-48.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Wildlife/DSC8322-48.placeholder.jpg"
     },
     {
       "width": 2044,
       "height": 1363,
-      "path": "./photos/Wildlife/_DSC8508-1-Edit.jpg",
-      "compressed_path": "./photos/Wildlife/_DSC8508-1-Edit.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Wildlife/_DSC8508-1-Edit.placeholder.jpg"
+      "path": "./photos/Wildlife/DSC8508-1-Edit.jpg",
+      "compressed_path": "./photos/Wildlife/DSC8508-1-Edit.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Wildlife/DSC8508-1-Edit.placeholder.jpg"
     },
     {
       "width": 3375,
       "height": 2250,
-      "path": "./photos/Wildlife/_DSC8567-60.jpg",
-      "compressed_path": "./photos/Wildlife/_DSC8567-60.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Wildlife/_DSC8567-60.placeholder.jpg"
+      "path": "./photos/Wildlife/DSC8567-60.jpg",
+      "compressed_path": "./photos/Wildlife/DSC8567-60.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Wildlife/DSC8567-60.placeholder.jpg"
     },
     {
       "width": 2763,
       "height": 1842,
-      "path": "./photos/Wildlife/_DSC8595-88.jpg",
-      "compressed_path": "./photos/Wildlife/_DSC8595-88.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Wildlife/_DSC8595-88.placeholder.jpg"
+      "path": "./photos/Wildlife/DSC8595-88.jpg",
+      "compressed_path": "./photos/Wildlife/DSC8595-88.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Wildlife/DSC8595-88.placeholder.jpg"
     }
   ]
 }

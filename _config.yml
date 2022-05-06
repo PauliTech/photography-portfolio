@@ -6,7 +6,7 @@
 title: Dilan Pauli's Gallery
 
 # The title on the web page
-full_name: Dilan pauli
+full_name: Dilan Pauli's Photography
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -58,4 +58,4 @@ category_dir: /
 baseurl: /
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
- url: http://dilan.pictures
+url: http://dilan.pictures
